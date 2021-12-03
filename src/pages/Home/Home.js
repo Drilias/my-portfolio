@@ -29,7 +29,7 @@ export default function Home(){
                 Adoro explorar o universo do desenvolvimento Web e descobrir cada dia um pouco mais.<br/>
                 Tenho conhecimentos em HTML, CSS, Javascript, React, Node, TypeScript, MySQL e AWS.<br/>
                 Conhecer outras tecnologias também seria divertido, pois gosto muito de aprender.<br/>
-                Estou em busca da minha próxima oportunidade de fazer a diferença...
+                Busco sempre contribuir e fazer a diferença...
             </p>   
           </div>   
         </section>                        

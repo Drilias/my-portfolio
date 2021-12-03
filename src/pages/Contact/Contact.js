@@ -1,5 +1,5 @@
 import React from 'react';
 
 export default function Contact(){
-    return <div>OI</div>
+    return <div>hey</div>
 }
